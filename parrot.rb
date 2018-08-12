@@ -1,3 +1,3 @@
 def parrot( phrase = "Squawk!")
-  phrase == "#{phrase}"
+  phrase = "#{phrase}"
 end
